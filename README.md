@@ -11,4 +11,4 @@ Currentlyworking on to estimated the pose of head mount device (Hololens) where 
 
 UPDATE: Below is the proof of concept for the pose estimation using the blinking pattern of LEDS
 
-https://gfycat.com/AlarmingFlawlessKomododragon
+<a href="https://imgflip.com/gif/2ca4b2"><img src="https://i.imgflip.com/2ca4b2.gif" title="made at imgflip.com"/></a>
