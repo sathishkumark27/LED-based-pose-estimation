@@ -8,3 +8,7 @@ TO DO:
 Currentlyworking on to estimated the pose of head mount device (Hololens) where both the head mount device and the camera are moving. 
 1. By using the blinking pattern of LEDs, we can identify the LEDs uniquely.
 2. Identified LEDs world co-ordinates and seen image points on camrea frame are used to pose estimation.
+
+UPDATE: Below is the proof of concept for the pose estimation using the blinking pattern of LEDS
+
+https://gfycat.com/AlarmingFlawlessKomododragon
