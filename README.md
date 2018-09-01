@@ -12,3 +12,7 @@ Currentlyworking on to estimated the pose of head mount device (Hololens) where 
 UPDATE: Below is the proof of concept for the pose estimation using the blinking pattern of LEDS
 
 <a href="https://imgflip.com/gif/2ca4je"><img src="https://i.imgflip.com/2ca4je.gif" title="made at imgflip.com"/></a>
+
+UPDATE : Pose of the 3D printed HoloLens prototype.
+
+<a href="https://imgflip.com/gif/2gznwi"><img src="https://i.imgflip.com/2gznwi.gif" title="made at imgflip.com"/></a>
